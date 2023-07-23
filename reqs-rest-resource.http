@@ -1,0 +1,5 @@
+@server = https://angelloxz-special-happiness-r45g6xxw4qf5g95-8080.preview.app.github.dev
+###
+GET {{server}}
+###
+GET {{server}}/cursos/2
