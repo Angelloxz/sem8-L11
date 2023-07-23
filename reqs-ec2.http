@@ -1,5 +1,6 @@
-@server = https://angelloxz-special-happiness-r45g6xxw4qf5g95-8080.preview.app.github.dev
+#@server = https://angelloxz-special-happiness-r45g6xxw4qf5g95-8080.preview.app.github.dev
 ###
+@server = https://sem8-1rez.onrender.com
 @apiserver ={{server}}/api/curso
 GET {{server}}/
 ###
@@ -12,9 +13,9 @@ GET {{apiserver}}/listar
 POST {{apiserver}}/nuevo
 Content-Type: application/x-www-form-urlencoded
 
-nombre=Algoritmo&creditos=5
+nombre=Estructura+de+datos&creditos=4
 ###
 DELETE {{apiserver}}/eliminar
 Content-Type: application/x-www-form-urlencoded
 
-id=2
+id=52
