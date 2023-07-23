@@ -2,4 +2,4 @@
 ###
 GET {{server}}
 ###
-GET {{server}}/cursos/2
+GET {{server}}/cursos
